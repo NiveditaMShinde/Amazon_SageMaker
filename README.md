@@ -46,9 +46,8 @@
        
        I am opting to upload my previously availabe dataset and python code file for house price prediction.
        
-       ![image](https://user-images.githubusercontent.com/66831307/229089772-5822af2b-ccf6-4e45-864c-3222c0125790.png)
+  ![image](https://user-images.githubusercontent.com/66831307/229089772-5822af2b-ccf6-4e45-864c-3222c0125790.png)
 
-       
        My files has been uploaded. We can run it like usual jupyter notebook and can train our model.
        
  5. If we choose Git Repositories in place of Notebook Instances,
