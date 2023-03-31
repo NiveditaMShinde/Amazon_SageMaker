@@ -44,7 +44,8 @@
   iii. We are having these many option available to create a notebook-
        ![image](https://user-images.githubusercontent.com/66831307/229084139-a9679b21-42c8-40ff-95ad-0d47db486e2b.png)
        
-       I am opting to upload my previously availabe dataset and python code file for house price prediction
+       I am opting to upload my previously availabe dataset and python code file for house price prediction.
+       
        ![image](https://user-images.githubusercontent.com/66831307/229085264-5486c56e-f6f3-48b6-aae3-0bb06c19ea49.png)
        
        My files has been uploaded. We can run it like usual jupyter notebook and can train our model.
