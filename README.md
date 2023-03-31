@@ -70,7 +70,6 @@ We just need to add Git Repository
 ![image](https://user-images.githubusercontent.com/66831307/229086542-871bb7b9-07bd-421a-bc32-1700964ff427.png)
 
 I have added a git repository as shown below-
-
 ![image](https://user-images.githubusercontent.com/66831307/229087837-3036a0a6-3bb9-4c43-9126-83459a497e7c.png)
 
 We can associate these repositories as default or additional repositories to notebook instances.
